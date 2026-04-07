@@ -67,7 +67,7 @@ bronze_ingestion → silver_transformation → gold_modeling → incremental_mer
 
 ## Workflow DAG Screenshot
 
-See: `docs/workflow_dag.png`
+See: `/Atlikon BI 360 2026-04-07 20_30.pdf`
 
 ---
 
